@@ -10,5 +10,8 @@
 #define Leetcode21_h
 
 #include <stdio.h>
-
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
 #endif /* Leetcode21_h */

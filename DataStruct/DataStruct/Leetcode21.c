@@ -7,10 +7,7 @@
 //
 
 #include "Leetcode21.h"
-struct ListNode {
-    int val;
-    struct ListNode *next;
-};
+
 struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
     
     if(l1 == NULL&&l2) return l2;
