@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#include "Leetcode20.h"
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
