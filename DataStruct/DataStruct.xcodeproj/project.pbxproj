@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C69F358422378F0F00419964 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C69F358322378F0F00419964 /* main.m */; };
 		C69F358C2237908400419964 /* Leetcode20.c in Sources */ = {isa = PBXBuildFile; fileRef = C69F358A2237908400419964 /* Leetcode20.c */; };
+		C69F358F22379AD200419964 /* Leetcode21.c in Sources */ = {isa = PBXBuildFile; fileRef = C69F358D22379AD200419964 /* Leetcode21.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		C69F358322378F0F00419964 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C69F358A2237908400419964 /* Leetcode20.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Leetcode20.c; sourceTree = "<group>"; };
 		C69F358B2237908400419964 /* Leetcode20.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Leetcode20.h; sourceTree = "<group>"; };
+		C69F358D22379AD200419964 /* Leetcode21.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Leetcode21.c; sourceTree = "<group>"; };
+		C69F358E22379AD200419964 /* Leetcode21.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Leetcode21.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				C69F358322378F0F00419964 /* main.m */,
 				C69F358A2237908400419964 /* Leetcode20.c */,
 				C69F358B2237908400419964 /* Leetcode20.h */,
+				C69F358D22379AD200419964 /* Leetcode21.c */,
+				C69F358E22379AD200419964 /* Leetcode21.h */,
 			);
 			path = DataStruct;
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C69F358C2237908400419964 /* Leetcode20.c in Sources */,
+				C69F358F22379AD200419964 /* Leetcode21.c in Sources */,
 				C69F358422378F0F00419964 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
